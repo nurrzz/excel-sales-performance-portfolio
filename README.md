@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes sales performance data to understand revenue drivers, profit patterns, regional performance, and data quality issues that may affect business decisions.
+This project analyzes sales performance data to understand revenue drivers, profit patterns, and regional performance
 
 ## Business Objective
 
