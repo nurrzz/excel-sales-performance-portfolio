@@ -41,15 +41,15 @@ The dataset includes intentional data quality issues such as inconsistent text f
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png?raw=true&v=3)
+![Dashboard Preview](dashboard-preview.png?raw=true&v=4)
 
 ## Files
 
-- `dataset/sales-performance-dataset.xlsx`: source dataset used for the project
-- `workbook/sales-performance-analysis.xlsx`: Excel workbook with cleaned data. summaries. dashboard. and insights
-- `images/dashboard-preview.png`: dashboard preview image
-- `notes/data-cleaning-log.md`: business-style cleaning documentation
-- `notes/business-insights.md`: summary of key findings and recommendations
+- `sales-performance-dataset.xlsx`: source dataset used for the project
+- `sales-performance-analysis.xlsx`: Excel workbook with cleaned data. summaries. dashboard. and insights
+- `dashboard-preview.png`: dashboard preview image
+- `data-cleaning-log.md`: business-style cleaning documentation
+- `business-insights.md`: summary of key findings and recommendations
 
 ## Summary Metrics
 
