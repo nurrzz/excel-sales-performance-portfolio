@@ -41,7 +41,7 @@ The dataset includes intentional data quality issues such as inconsistent text f
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png?raw=true&v=2)
 
 ## Files
 
